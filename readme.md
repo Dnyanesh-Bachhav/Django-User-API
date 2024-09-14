@@ -69,6 +69,7 @@ If changed in models migrate changes and rerun server
 **POST api/clients/{client_id}/projects/**
 
 - Description: Create a new project for a specific client and assign users to the project.
+
 **GET api/projects/**
 - Description: Retrieve a list of all projects assigned to the logged-in user.
 
